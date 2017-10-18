@@ -4,6 +4,7 @@ html {
 }
 body {
     width: 80%;
+    align: center;
     font-family: 'Handlee', cursive;
     font-size: 13pt;
     background-color: #efefef;
